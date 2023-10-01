@@ -1,2 +1,2 @@
 # projeto-antigo-cidade-noticias
- e um projeto de um curso antigo 
+Uma das atividades de um curso que tenho na udemy irei concluir ele
